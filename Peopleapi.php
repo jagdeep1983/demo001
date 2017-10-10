@@ -15,5 +15,5 @@ var $lastName;
  header('Content-Type: application/json');  
  $jsonOutput =  json_encode($items);  
  echo $jsonOutput;  
-      
+ ?>     
    
